@@ -12,6 +12,4 @@
 7. ✔Automatically assingn date and time.
 
 
-### link:- https://todo-codewithmanish.herokuapp.com/about
-
 ![Todolist](https://user-images.githubusercontent.com/59960810/111181585-22e62080-85d4-11eb-806f-926a8c7e1111.jpg)
