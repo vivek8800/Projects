@@ -11,5 +11,3 @@
 6. ✔Delete the tasks.
 7. ✔Automatically assingn date and time.
 
-
-![Todolist](https://user-images.githubusercontent.com/59960810/111181585-22e62080-85d4-11eb-806f-926a8c7e1111.jpg)
